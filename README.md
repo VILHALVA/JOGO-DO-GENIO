@@ -59,7 +59,7 @@
 - [NETBEANS IDE](https://netbeans.apache.org/download/index.html) O NetBeans IDE é um ambiente de desenvolvimento integrado gratuito e de código aberto para o desenvolvimento de aplicativos Java, bem como para várias outras linguagens de programação, como PHP, C/C++, e HTML5. Ele oferece uma série de recursos poderosos, como edição de código avançada, depuração, controle de versão e integração com servidores de aplicativos, facilitando o desenvolvimento de software em Java e outras plataformas.
 
 ## CREDITOS:
-- [PROJETO CRIADO PARA O CURSO DE JAVA](ttps://github.com/VILHALVA/CURSO-DE-JAVA)
+- [PROJETO CRIADO PARA O CURSO DE JAVA](https://github.com/VILHALVA/CURSO-DE-JAVA)
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 
 
