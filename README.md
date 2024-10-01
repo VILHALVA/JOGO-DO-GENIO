@@ -41,7 +41,7 @@
    ```
 
 2. **Executar o projeto:**
-   Para executar a aplicação Swing com o Maven, usando a classe principal definida no seu `pom.xml` (no caso, `com.mycompany.janelaprogramacao.Janela`), use o comando:
+   Para executar a aplicação Swing com o Maven, usando a classe principal definida no seu `pom.xml`, use o comando:
 
    ```bash
    mvn exec:java
